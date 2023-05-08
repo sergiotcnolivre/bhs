@@ -1,4 +1,4 @@
-# Sistema de login com cadastro de usuparios
+# Sistema de login com cadastro de usuários
 
 ## Instruções
 
